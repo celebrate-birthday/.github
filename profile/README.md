@@ -13,7 +13,3 @@
 🙋‍♀️ A short introduction - Celebrate your friend's birthday in a coder way！
 
 🌈 Contribution guidelines - Creative ideas!
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - 我🐏了（
